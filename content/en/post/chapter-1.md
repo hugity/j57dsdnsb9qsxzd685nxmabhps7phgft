@@ -19,8 +19,8 @@ title: 'Chapter I: The Grand Hall'
 
 *   Bullet list 1
 *   Bullet list 2
-*   [ ] Checked list one
-*   [ ] Checked list two
+-   [ ] Checked list one
+-   [ ] Checked list two
 
 Paragraph
 
