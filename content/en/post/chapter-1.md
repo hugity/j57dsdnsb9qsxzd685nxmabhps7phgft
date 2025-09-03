@@ -18,9 +18,20 @@ title: 'Chapter I: The Grand Hall'
 2.  List two
 
 *   Bullet list 1
+
 *   Bullet list 2
--   [ ] Checked list one
--   [ ] Checked list two
+
+*   [ ]
+
+    *   [ ]
+
+Checked list one
+
+*   [ ]
+
+    *   [ ]
+
+Checked list two
 
 Paragraph
 
@@ -30,6 +41,7 @@ code block
 
 |       |        |        |
 | ----- | ------ | ------ |
+|       |        |        |
 | Table | Header | Header |
 | Row   | Cell   | Cell   |
 
