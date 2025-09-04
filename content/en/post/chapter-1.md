@@ -14,13 +14,17 @@ title: 'Chapter I: The Grand Hall'
 
 ### Heading 3
 
-1.  List one
-2.  List two
+1. List one
 
-*   Bullet list 1
-*   Bullet list 2
-*   [ ] Your mum
-*   [x] Your mum again
+2. List two
+
+* Bullet list 1
+
+* Bullet list 2
+
+* [ ] Your mum
+
+* [x] Your mum again
 
 Paragraph
 
@@ -30,7 +34,6 @@ code block
 
 |       |        |        |
 | ----- | ------ | ------ |
-|       |        |        |
 | Table | Header | Header |
 | Row   | Cell   | Cell   |
 
