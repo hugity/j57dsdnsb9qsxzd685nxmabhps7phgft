@@ -25,7 +25,6 @@ title: 'Chapter I: The Grand Hall'
 * Bullet list 2
 
 * [ ] Your mum
-
 * [x] Your mum again
 
 Paragraph
