@@ -20,11 +20,9 @@ title: 'Chapter I: The Grand Hall'
 
 2. List two
 
-* Bullet list 1
-
-* Bullet list 2
-
-* [ ] Your mum
+- Bullet list 1
+- Bullet list 2
+- [ ] Your mum
 - [x] Your mum again
 
 Paragraph
