@@ -22,8 +22,8 @@ title: 'Chapter I: The Grand Hall'
 
 - Bullet list 1
 - Bullet list 2
-- [ ] Your mum
-- [x] Your mum again
+- [ ] Checklist 1
+- [x] Checked list 2
 
 Paragraph
 
